@@ -1,6 +1,6 @@
 # Convertor
  - Converting Private key into all possible coins
- - Python version forked from [iceland2k14/coinaddress](https://github.com/iceland2k14/coinaddress) and modified
+ - Python version forked from [iceland2k14/coinaddress](https://github.com/iceland2k14/coinaddress)
  - The converter is intended for those who are looking for many different coins with a large base.
  - Lostcoin looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address.
  - You need to copy the found positive private key and add it to the converter. To find an address belonging to the found hash160. 
