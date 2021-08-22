@@ -1,7 +1,7 @@
 # Converter.exe
  - Converting Private key into all possible coins
  - The converter is intended for those who are looking for many different coins with a large base.
- - LostCoins looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address 1.
+ - [LostCoins](https://github.com/phrutis/LostCoins) looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address 1.
  - You need to copy the Found positive private key and add it to the converter. To find an address belonging to the found hash160. 
 ## Example
  ```
