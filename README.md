@@ -1,11 +1,12 @@
-# Converter.exe
+forked from [iceland2k14/coinaddress](https://github.com/iceland2k14/coinaddress)
+# Converter
  - Converting Private key into all possible coins
  - The converter is intended for those who are looking for many different coins with a large base.
  - [LostCoins](https://github.com/phrutis/LostCoins) looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address 1.
  - You need to copy the Found positive private key and add it to the converter. To find an address belonging to the found hash160. 
 ## Example
  ```
- C:\Users\user>Converter.exe
+ C:\Users\user>Converter.py
  Special edition of the converter for LostCoins
  Converting a Private key to all possible Coins
  Enter Private key (Ctr + V):
