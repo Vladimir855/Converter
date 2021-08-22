@@ -1,15 +1,8 @@
-# Convertor 1 (RIPEMD160.exe)
- - Converter all possible addresses base58 to RIPEMD160 hashes for LostCoins
- - Rename your text file with addresses to **Base.txt** Output text file default RIPEMD160.txt
- - It may take more than 60 minutes to convert a database of 160,000,000 addresses and more.
- - The process of converting addresses is not fast, please wait for it to complete...
-
-# Converter 2 (Converter.exe)
- - Converting Private key into all possible coins and base58 to RIPEMD160
- - Python version forked from [iceland2k14/coinaddress](https://github.com/iceland2k14/coinaddress)
+# Converter.exe
+ - Converting Private key into all possible coins
  - The converter is intended for those who are looking for many different coins with a large base.
- - Lostcoin looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address.
- - You need to copy the found positive private key and add it to the converter. To find an address belonging to the found hash160. 
+ - LostCoins looks for hashes160 from all coins. If hash160 is found for Ethereum, it will give an empty legacy address 1.
+ - You need to copy the Found positive private key and add it to the converter. To find an address belonging to the found hash160. 
 ## Example
  ```
  C:\Users\user>Converter.exe
